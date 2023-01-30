@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13712917034",
+    "project_id": "bwcovidcentral",
+    "storage_bucket": "bwcovidcentral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13712917034:android:f85442213e005b89307953",
+        "android_client_info": {
+          "package_name": "com.example.bwcovidcentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13712917034-qvek346ktreg57it4659b1sfp7rrapto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASr3M9I6ukRR22SUaPabHxMmvWi5AhbF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13712917034-qvek346ktreg57it4659b1sfp7rrapto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
